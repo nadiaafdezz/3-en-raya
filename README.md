@@ -1,7 +1,9 @@
 # 3 EN RAYA 
 **Autors**
+
 Nadia Fernández
 Paula Justo
+
 ---
 Aquest repositori conté una implementació avançada i personalitzable del joc del **Tres en Ratlla**, desenvolupada com a part d'un projecte de programació. El joc inclou tant una versió bàsica com una ampliada amb reptes matemàtics, personalització de jugadors i interfície gràfica.
 
